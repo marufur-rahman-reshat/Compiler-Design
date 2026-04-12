@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1772004301 source:c:\graphics\cd\cdtask2\main.cpp
+	<fstream>
+	<iostream>
+	<fstream>
+
+1775634314 source:c:\codes\graphics\cd\cdtask2\main.cpp
+	<fstream>
+	<iostream>
+	<fstream>
+	<string>
+
